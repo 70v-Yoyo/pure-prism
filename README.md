@@ -58,7 +58,7 @@ Pure Prism 是一款专为 Typora 打造的 Markdown 主题，以清透的莫兰
 
 ## Installation
 
-1. Download and extract [Pure Prism](https://github.com/).
+1. Download and extract [Pure Prism](https://github.com/70v-Yoyo/pure-prism).
 2. In Typora, open **Settings → Appearance → Open Theme Folder**.
 3. Copy `pure-prism.css`,`pure-prism-dark.css` and the complete `pure-prism/` resource folder into the theme folder.
 4. Restart Typora and select **Pure Prism** from the **Themes** menu.
