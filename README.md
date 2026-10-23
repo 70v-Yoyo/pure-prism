@@ -54,7 +54,7 @@ Pure Prism 是一款专为 Typora 打造的 Markdown 主题，以清透的莫兰
 
 ![article](./README.assets/article_preview3.png)
 
-![article](../../../../media/theme/pure-prism/article_preview4.png)
+![article](./README.assets/article_preview4.png)
 
 ## Installation
 
